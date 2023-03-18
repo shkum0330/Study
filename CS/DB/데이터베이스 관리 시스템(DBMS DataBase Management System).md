@@ -51,7 +51,7 @@
 - 계층 DBMS: 데이터베이스를 트리 형태로 구성
 - 
 
-!<img width="826" alt="Untitled 1" src="https://user-images.githubusercontent.com/102662024/226121483-bdafde5d-9eed-45ad-bbad-7ec9329ee003.png">
+!<img width="476" alt="Untitled" src="https://user-images.githubusercontent.com/102662024/226121485-56f4b299-6b18-4771-8f80-53bb699fd4c0.png">
 
 ### 2세대
 
