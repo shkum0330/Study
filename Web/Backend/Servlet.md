@@ -22,9 +22,9 @@
 
 ## Servlet API
 
-![사용자 정의 서블릿의 상속 구조](https://user-images.githubusercontent.com/102662024/226918046-3c1ebe0e-b764-49f9-b665-c08df8d91188.png)
+![Untitled 2](https://user-images.githubusercontent.com/102662024/226918046-3c1ebe0e-b764-49f9-b665-c08df8d91188.png)
 
-                                                           사용자 정의 서블릿의 상속 구조
+                                                    사용자 정의 서블릿의 상속 구조
 
 # Servlet Life-Cycle
 
